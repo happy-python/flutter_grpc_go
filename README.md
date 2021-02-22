@@ -15,8 +15,7 @@ Warning: Pub installs executables into $HOME/.pub-cache/bin, which is not on you
 You can fix that by adding this to your shell's config file (.bashrc, .bash_profile, etc.): export PATH="$PATH":"$HOME/.pub-cache/bin"
 
 #### 项目结构
-![](http://qiniu.rocbj.com/Jietu20200307-005350.jpg)
-![](http://qiniu.rocbj.com/Jietu20200307-005427.jpg)
+<img src="http://qiniu.rocbj.com/Jietu20200307-005350.jpg" width="300" height="500"/><img src="http://qiniu.rocbj.com/Jietu20200307-005427.jpg" width="300" height="500"/>
 
 #### 项目效果
 <img src="http://qiniu.rocbj.com/Jietu20200307-003151.jpg" width="300" height="500"/><img src="http://qiniu.rocbj.com/Jietu20200307-005039.jpg" width="300" height="500"/>
