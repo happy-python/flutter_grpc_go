@@ -19,5 +19,4 @@ You can fix that by adding this to your shell's config file (.bashrc, .bash_prof
 ![](http://qiniu.rocbj.com/Jietu20200307-005427.jpg)
 
 #### 项目效果
-<img src="http://qiniu.rocbj.com/Jietu20200307-003151.jpg" width="200" height="500"/><br/>
-<img src="http://qiniu.rocbj.com/Jietu20200307-005039.jpg" width="200" height="500"/><br/>
+<img src="http://qiniu.rocbj.com/Jietu20200307-003151.jpg" width="300" height="500"/><img src="http://qiniu.rocbj.com/Jietu20200307-005039.jpg" width="300" height="500"/>
